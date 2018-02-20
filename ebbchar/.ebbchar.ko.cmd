@@ -1,0 +1,1 @@
+cmd_/home/nambker/ebbchar/ebbchar.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/nambker/ebbchar/ebbchar.ko /home/nambker/ebbchar/ebbchar.o /home/nambker/ebbchar/ebbchar.mod.o ;  true
